@@ -31,6 +31,6 @@ O projeto foi desenvolvido em Javascript, HTML5 e CSS3. Utilizamos as APIs [Fire
 
 Ao entrar na aplicação, o usuário poderá se registrar ou fazer o login, caso já tenha uma conta cadastrada.
 
-![](/images/ezgif.com-video-to-gif.gif)
+![](/images/literarea.gif)
 
 O usuário terá acesso à pagina inicial, onde pode encontrar outros usuários no mapa, a partir de sua localização. Ao clicar em um pin, aparecerão as informações das coleções do usuário selecionado. Nessa mesma página, também é possível fazer uma pesquisa de livros, pelo título ou autor e assim, adicionar os livros de interesse em alguma coleção (desejados ou disponíveis).
